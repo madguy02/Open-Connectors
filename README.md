@@ -4,4 +4,4 @@
 
 - Connect to any data source 
 - Pull data out of the source
-- Store the data anywhere as per requirement
+- Store the data in any destination as per requirement
