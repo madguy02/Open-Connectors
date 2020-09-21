@@ -1,0 +1,10 @@
+{
+  "name": "Open-Connectors",
+  "version": "0.1.0",
+  "description": "Build ETL pipelines with ease",
+  "main": "index.js",
+  "repository": "https://github.com/madguy02/Open-Connectors.git",
+  "author": "madguy02 <manishkakoti688@gmail.com>",
+  "license": "Apache-2.0",
+  "private": null
+}
